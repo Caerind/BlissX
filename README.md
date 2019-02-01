@@ -1,40 +1,13 @@
-# VulkanTest
+# BlissX
 
-My Vulkan playground ! 
+The main goal of BlissX is to make me learn how to implement a programming language.  
 
-Mainly to learn and improve my skills using it.  
+Other goals are :  
+ - I want to have a syntax that is close to C++, because I like it and I hate script languages (JS, Python, ...)
+ - I want the language to be easy used in C++ application (with focus on games)
+ - I want the language to be 'fast' (As this is my first language I hope it will, but probably won't)
+ 
+When I will have the time, I will add the next chapters that Robert Nystrom added.  
+And also, I will add the specifications of the language below (But don't expect this soon).
 
-I made some steps to faster the learning of Vulkan :
-- Step 1 : Overview of Vulkan (by following the Vulkan Tutorial entirely)
-- Step 2 : Theory of Vulkan (by following the Vulkan Cookbook, chapters 1 to 9)
-- Step 3 : My Vulkan Wrapper
-- Step 4 : Practice of Vulkan (by following Vulkan Cookbook, chapters 11 & 12, and then Vulkan Examples by SaschaWillems)
-- Step 5 : Improve the wrapper and made it a rendering engine
-- Step 6 : Add Vulkan to my NumeaEngine
-  
-  
-  
-Step 1 : DONE : https://github.com/Cmdu76/VulkanTest/tree/671d35ced75e39df5468d227fd8bf4cd5d28682d  
-  
-Step 2 : DONE : https://github.com/Cmdu76/VulkanTest/tree/e024fc0a4ebe238263637fe3a4315ead564de131  
-  
-Step 3 : DONE : (But there will always be improvements to made) 
-  
-Step 4 : DONE : (But I still need to fix the 4th example and improve all the others as possible using the new versions of the wrapper)
-
-Step 5 : WIP  
-
-Step 6 : ...
-
-
-
-Following :
- - Vulkan Tutorial : https://vulkan-tutorial.com/
- - Vulkan Cookbook : https://www.packtpub.com/game-development/vulkan-cookbook
- - Vulkan Examples : https://github.com/SaschaWillems/vulkan_slim
-
-Using :
- - Some parts of NumeaEngine : https://github.com/Cmdu76/NumeaEngine
- - STB_image : https://github.com/nothings/stb
- - tiny_obj_loader : https://github.com/syoyo/tinyobjloader
- - VulkanMemoryAllocator : https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator
+When the book will be finished, first I'll probably buy it, and then I will go my own way for adding features and following my own syntax and techniques.
